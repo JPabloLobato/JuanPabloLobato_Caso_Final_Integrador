@@ -1,0 +1,2 @@
+C:/Users/tinitotin/CLionProjects/JuanPabloLobato_Caso_Final_Integrador/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tinitotin/CLionProjects/JuanPabloLobato_Caso_Final_Integrador/cmake-build-debug/CMakeFiles/rebuild_cache.dir
